@@ -66,6 +66,8 @@ script
 
 执行后对当前终端当前用户有效
 
+.  or source run this script
+
 ```bash
 #!/bin/bash
 
